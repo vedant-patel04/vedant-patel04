@@ -52,27 +52,33 @@ user@vedant:~$ cat about.txt
 ### 🚀 Featured Projects
 
 #### 1️⃣ SOC Monitoring & Endpoint Security – Wazuh SIEM
-> *Deployed Wazuh SIEM in a home lab to monitor Windows & Linux endpoints. Analyzed authentication logs and created dashboards for failed login detection.*
+> *   Deployed Wazuh SIEM in a self-built home lab with Windows and Linux endpoints
+> *   Monitored security alerts and analyzed authentication logs
+> *   Created dashboards to track failed login attempts and endpoint activity
 >
 > ![Wazuh](https://img.shields.io/badge/Wazuh-Enabled-green) ![SIEM](https://img.shields.io/badge/SIEM-Monitoring-blue)
 
 #### 2️⃣ SSH Brute-Force Detection & Automated Response
-> *Created custom Wazuh rules for brute-force detection and simulated attacks. Automated IP blocking via active response.*
+> *   Implemented custom Wazuh rules to detect SSH brute-force attacks
+> *   Simulated repeated failed login attempts to generate high-severity alerts
+> *   Automated attacker IP blocking using active response mechanisms
 >
 > ![Python](https://img.shields.io/badge/Python-Automation-blue) ![Security](https://img.shields.io/badge/Network-Security-red)
 
-#### 3️⃣ Malware Analysis Lab
-> *Built an isolated malware analysis lab for static and basic dynamic analysis using Kali Linux and VirusTotal.*
+#### 3️⃣ Malware Analysis & Threat Investigation
+> *   Analyzed malware samples in an isolated lab environment
+> *   Performed static and basic dynamic analysis
+> *   Used Kali Linux and VirusTotal for threat investigation
 >
 > ![Malware](https://img.shields.io/badge/Malware-Analysis-red) ![Lab](https://img.shields.io/badge/Virtual-Box-blue)
 
-#### 4️⃣ Android Exploitation Lab
-> *Simulated Android exploitation using Metasploit and msfvenom to understand reverse shell mechanics.*
+#### 4️⃣ Exploiting Android
+> *   Created payloads with msfvenom and exploited Android apps via Metasploit, simulating reverse shells and post-exploitation scenarios in a lab setup.
 >
 > ![Android](https://img.shields.io/badge/Android-Hacking-green) ![Metasploit](https://img.shields.io/badge/Metasploit-Framework-blue)
 
-#### 5️⃣ Ethical Hacking with Hardware Devices
-> *Used Raspberry Pi Pico W for Python-based attack simulations to demonstrate system vulnerabilities.*
+#### 5️⃣ Hacking Using Hardware Devices
+> *   Implemented ethical hacking experiments using Raspberry Pi Pico W and Python scripts on Windows systems to uncover and demonstrate vulnerabilities.
 >
 > ![Hardware](https://img.shields.io/badge/Raspberry-Pi-red) ![IoT](https://img.shields.io/badge/IoT-Security-blue)
 
@@ -94,26 +100,6 @@ user@vedant:~$ cat about.txt
 | :--- | :--- | :--- |
 | **M.Sc. Information Technology (IMS & CS)** | Gujarat University | 2024–Present |
 | **B.Sc. Information Technology (IMS & CS)** | Gujarat University | 2021–2024 |
-
----
-
-### 📊 Github Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedant-patel04&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;icon_color=00FF1F&amp;title_color=00FF1F&amp;text_color=c9d1d9" alt="Vedant's Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedant-patel04&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;ring=00FF1F&amp;fire=00FF1F&amp;currStreakLabel=00FF1F" alt="Vedant's Streak" width="48%" />
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-patel04&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;icon_color=00FF1F&amp;title_color=00FF1F&amp;text_color=c9d1d9" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvedant-patel04%2Fvedant-patel04&amp;count_bg=%2300FF1F&amp;title_bg=%230D1117&amp;icon=&amp;icon_color=%23E7E7E7&amp;title=VISITORS&amp;edge_flat=true" alt="Visitor Count" />
-</div>
 
 ---
 
