@@ -1,9 +1,12 @@
 <div align="center">
-  <img src="https://crm.aurelium.io/assets/images/soc-analyst.gif" width="100px" />
-  <h1>Vedant Patel</h1>
+  <img src="https://i.gifer.com/7S7E.gif" width="100%" height="120px" style="object-fit: cover;" />
+  <br>
+  <img src="https://crm.aurelium.io/assets/images/soc-analyst.gif" width="120px" />
+  
+  <h1 style="font-family: monospace; color: #00FF1F;">Vedant Patel</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF1F&center=true&vCenter=true&width=600&lines=SOC+Analyst;Cybersecurity+%26+Threat+Detection;Defending+Systems;Analyzing+Threats;Learning+Every+Day" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=500&size=28&pause=1000&color=00FF1F&center=true&vCenter=true&width=600&lines=Initializing+SOC+Protocols...;Subject:+Vedant+Patel;Role:+SOC+Analyst+%7C+Threat+Hunter;Mission:+Defending+Critical+Systems;Status:+Online+and+Monitoring;" alt="Typing SVG" />
   </a>
   
   <p>
@@ -17,6 +20,7 @@
 </div>
 
 ---
+
 
 ### 🛡️ About Me
 
@@ -110,6 +114,19 @@ user@vedant:~$ cat about.txt
   > SOC Analyst | Cybersecurity Learner | Tech Enthusiast
   ```
   
+  <div align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvedant-patel04%2Fvedant-patel04&amp;count_bg=%2300FF1F&amp;title_bg=%230D1117&amp;icon=&amp;icon_color=%23E7E7E7&amp;title=VISITORS&amp;edge_flat=true" alt="Visitor Count" />
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🐍 Contribution Snake</h3>
+  <img src="https://raw.githubusercontent.com/vedant-patel04/vedant-patel04/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+---
+
   <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF1F&height=100&section=footer&fontSize=0" width="100%" />
   </p>
