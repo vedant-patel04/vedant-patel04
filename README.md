@@ -100,19 +100,19 @@ user@vedant:~$ cat about.txt
 ### 📊 Github Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedant-patel04&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=00FF1F&title_color=00FF1F&text_color=c9d1d9" alt="Vedant's Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedant-patel04&theme=radical&hide_border=true&background=0D1117&ring=00FF1F&fire=00FF1F&currStreakLabel=00FF1F" alt="Vedant's Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vedant-patel04&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;icon_color=00FF1F&amp;title_color=00FF1F&amp;text_color=c9d1d9" alt="Vedant's Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedant-patel04&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;ring=00FF1F&amp;fire=00FF1F&amp;currStreakLabel=00FF1F" alt="Vedant's Streak" width="48%" />
 </div>
 
 <div align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-patel04&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&icon_color=00FF1F&title_color=00FF1F&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-patel04&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;icon_color=00FF1F&amp;title_color=00FF1F&amp;text_color=c9d1d9" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/vedant-patel04/count.svg" alt="Visitor Count" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvedant-patel04%2Fvedant-patel04&amp;count_bg=%2300FF1F&amp;title_bg=%230D1117&amp;icon=&amp;icon_color=%23E7E7E7&amp;title=VISITORS&amp;edge_flat=true" alt="Visitor Count" />
 </div>
 
 ---
